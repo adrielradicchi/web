@@ -12,22 +12,33 @@
 
 1. You'll clone this repo and backend repo bofore from execute this project 
 
-    ``` git clone https:/github.com/adrielradicchi/backend.git ``` 
-    ``` git clone https:/github.com/adrielradicchi/web.git ``` 
+    ``` 
+    git clone https:/github.com/adrielradicchi/backend.git 
+    ``` 
+    ``` 
+    git clone https:/github.com/adrielradicchi/web.git 
+    ``` 
 
 2. Just open the folder where this projects are stored and execute this commands.
 
 Obs: Before to executing this commands, You'll need install ``` Yarn``` and after installation, You can execute below commands. 
 
-2.1. Before to executing Web project You'll need open backend project folder and follow steps written on Readme.md file.
+2. 1. Before to executing Web project You'll need open backend project folder and follow steps written on Readme.md file.
 
-2.2. After You follow the previous steps and now You can execute these commands inside project folder.  
-``` yarn install ```
+2. 2. After You follow the previous steps and now You can execute these commands inside project folder.  
+
+    ``` 
+        yarn install 
+    ```
 
 3. To execute this project 
 
-``` yarn start ```
+    ``` 
+        yarn start 
+    ```
 
 Now just to access 
 
-``` localhost:3000```
+    ``` 
+        localhost:3000
+    ```
