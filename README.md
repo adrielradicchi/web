@@ -22,10 +22,9 @@
 2. Just open the folder where this projects are stored and execute this commands.
 
 Obs: Before to executing this commands, You'll need install ``` Yarn``` and after installation, You can execute below commands. 
+Obs: Before to executing Web project You'll need open backend project folder and follow steps written on Readme.md file.
 
-2. 1. Before to executing Web project You'll need open backend project folder and follow steps written on Readme.md file.
-
-2. 2. After You follow the previous steps and now You can execute these commands inside project folder.  
+After You follow the previous steps and now You can execute these commands inside project folder.  
 
     ``` 
         yarn install 
@@ -39,6 +38,6 @@ Obs: Before to executing this commands, You'll need install ``` Yarn``` and afte
 
 Now just to access 
 
-    ``` 
+    ```
         localhost:3000
     ```
