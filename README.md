@@ -5,9 +5,10 @@
 ##### Technologies used
 
 **Frameworks:**
-    *ReactJS
-    *Axios
-
+    ```
+    ReactJS,
+    Axios
+    ```
 ##### You use this project 
 
 1. You'll clone this repo and backend repo bofore from execute this project 
